@@ -1,0 +1,2 @@
+my_var="Mother"
+echo $my_var
